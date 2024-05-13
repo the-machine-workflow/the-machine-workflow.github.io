@@ -1,1 +1,13 @@
-theme: jekill-theme-minimal
+theme: jekyll-theme-minimal
+title: The Machine Workflow
+description: The Machine Workflow site
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
